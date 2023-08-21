@@ -19,4 +19,4 @@ cd logs
 touch mongod.log
 cd ..
 cd ..
-echo "estructua creada"
+echo "estructura creada!!!!!!"
